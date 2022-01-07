@@ -1,4 +1,7 @@
-### Hey I am Nirasha Madubhashinu👋..Welcome to my gitHub profile..
+### Hey I am Nirasha Madubhashini 👋.. and Welcome to my gitHub profile..
+Reach me on:
+[linkedIn](http://www.linkedin.com/in/nirasha-madubhashini-888877201)
+[ooowebhost](https://nirashamadubhashini.000webhostapp.com/)
 
 <!--
 **NirashaMadubhashini/NirashaMadubhashini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
