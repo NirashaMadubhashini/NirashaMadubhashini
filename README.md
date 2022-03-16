@@ -1,6 +1,6 @@
 ### Hey 👋 I am Nirasha Madubhashini .. and Welcome to my gitHub profile..
 Reach me on:
-<img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hello+%F0%9F%91%8B%2C+I'm+Hansi+Hashani..;Welcome+to+my+github+profile...">
+<img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hello+%F0%9F%91%8B%2C+I'm+Nirasha+Madubhashini..;Welcome+to+my+github+profile...">
 
 #### I’m currently studying at Institute of Java and Software Engineering - Galle ..
 
