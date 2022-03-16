@@ -3,7 +3,7 @@
 
 #### I’m currently studying at Institute of Java and Software Engineering - Galle ..
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadeepamedhan&label=Profile%20views&color=0e75b6&style=flat" alt="hansihashani0415" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NirashaMadubhashini&label=Profile%20views&color=0e75b6&style=flat" alt="Bashi0729" /> </p>
 
 #### Reach me through ..
 
