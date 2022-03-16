@@ -21,9 +21,3 @@ Reach me on:
 [whatsApp-shield]: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 [whatsApp-url]: https://web.whatsapp.com/
 
-
-I’m currently studying at Institute of Java and Software Engineering - Galle ..
-
-
-Reach me through ..
-LinkedIn FaceBook WhatsApp
