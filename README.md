@@ -27,6 +27,5 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=NirashaMadubhashini&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="NirashaMadubhashini" /></p>
 
-<br>
-
+<br><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NirashaMadubhashini&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="NirashaMadubhashini" /></p>
