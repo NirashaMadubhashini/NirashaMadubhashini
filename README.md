@@ -1,22 +1,29 @@
 ### Hey 👋 I am Nirasha Madubhashini .. and Welcome to my gitHub profile..
 Reach me on:
+<img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hello+%F0%9F%91%8B%2C+I'm+Hansi+Hashani..;Welcome+to+my+github+profile...">
 
-[linkedIn](http://www.linkedin.com/in/nirasha-madubhashini-888877201)
+#### I’m currently studying at Institute of Java and Software Engineering - Galle ..
 
-[ooowebhost](https://nirashamadubhashini.000webhostapp.com/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadeepamedhan&label=Profile%20views&color=0e75b6&style=flat" alt="hansihashani0415" /> </p>
 
-<!--
-**NirashaMadubhashini/NirashaMadubhashini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Reach me through ..
 
-Here are some ideas to get you started:
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![FaceBook][faceBook-shield]][faceBook-url]
+[![WhatsApp][whatsApp-shield]][whatsApp-url]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...IJSE
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[linkedIn](http://www.linkedin.com/in/nirasha-madubhashini-888877201)
-[ooowebhost](https://nirashamadubhashini.000webhostapp.com/)
-- 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ...
--->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: http://www.linkedin.com/in/nirasha-madubhashini-888877201
+
+[faceBook-shield]: https://img.shields.io/badge/Facebook-3498db?style=for-the-badge&logo=facebook&logoColor=white
+[faceBook-url]: https://www.facebook.com/nirasha.madubhashini.1/
+
+[whatsApp-shield]: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+[whatsApp-url]: https://web.whatsapp.com/
+
+
+I’m currently studying at Institute of Java and Software Engineering - Galle ..
+
+
+Reach me through ..
+LinkedIn FaceBook WhatsApp
