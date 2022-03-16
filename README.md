@@ -21,11 +21,28 @@
 [whatsApp-url]: https://web.whatsapp.com/
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NirashaMadubhashini&theme=dark&hide_border=true&show_icons=true&locale=en" alt="NirashaMadubhashini" /></p>
-
-<br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=NirashaMadubhashini&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="NirashaMadubhashini" /></p>
+[![Nirasha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NirashaMadubhashini&&theme=xcode)](https://github.com/NirashaMadubhashini)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NirashaMadubhashini&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="NirashaMadubhashini" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NirashaMadubhashini&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Bashi0729" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NirashaMadubhashini&show_icons=true&locale=en&theme=tokyonight" alt="Bashi0729" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NirashaMadubhashini&&theme=tokyonight" alt="Bashi0729" /></p>
+
+
+<!--
+**chamodisamarasinghe/chamodisamarasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently studying at Institute of Jave and Software Engineering(IJSE)...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
