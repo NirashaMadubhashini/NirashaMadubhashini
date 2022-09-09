@@ -19,7 +19,7 @@
 [faceBook-shield]:https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 [faceBook-url]: https://www.facebook.com/nirasha.madubhashini.1/
 
-[whatsApp-shield]: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+[whatsApp-shield]:https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 [whatsApp-url]: https://web.whatsapp.com/
 
 [instagram-shield]:https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
