@@ -22,6 +22,9 @@
 [whatsApp-shield]: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 [whatsApp-url]: https://web.whatsapp.com/
 
+[instagram-shield]: https://img.shields.io/badge/Instagram-25D366?style=for-the-badge&logo=instagram&logoColor=white
+[instagram-url]: https://web.whatsapp.com/](https://www.instagram.com/
+
 
 <!-- [![Nirasha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NirashaMadubhashini&&theme=xcode)](https://github.com/NirashaMadubhashini) -->
 
