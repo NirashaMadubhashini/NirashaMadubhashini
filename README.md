@@ -30,7 +30,7 @@
 
 <a href="https://github.com/NirashaMadubhashini/github-readme-activity-graph"><img alt="Nirasha Madubhashini's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NirashaMadubhashini&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NirashaMadubhashini&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NirashaMadubhashini" /></p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NirashaMadubhashini&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Bashi0729" /></p> -->
 
