@@ -31,7 +31,7 @@
 [instagram-url]: https://web.whatsapp.com/](https://www.instagram.com/
 
 
-<!-- [![Nirasha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NirashaMadubhashini&&theme=xcode)](https://github.com/NirashaMadubhashini) -->
+<!-- [![Nirasha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NirashaMadubhashini&&theme=rogue)](https://github.com/NirashaMadubhashini) -->
 
 <a href="https://github.com/NirashaMadubhashini/github-readme-activity-graph"><img alt="Nirasha Madubhashini's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NirashaMadubhashini&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
