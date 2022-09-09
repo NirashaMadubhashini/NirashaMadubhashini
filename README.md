@@ -11,7 +11,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![FaceBook][faceBook-shield]][faceBook-url]
 [![WhatsApp][whatsApp-shield]][whatsApp-url]
-[![Instagram][whatsApp-shield]][https://www.instagram.com/]
+[![Instagram][instagram-shield]][instagram-url]
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: http://www.linkedin.com/in/nirasha-madubhashini-888877201
