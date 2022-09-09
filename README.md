@@ -13,7 +13,7 @@
 [![WhatsApp][whatsApp-shield]][whatsApp-url]
 [![Instagram][instagram-shield]][instagram-url]
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: http://www.linkedin.com/in/nirasha-madubhashini-888877201
 
 [faceBook-shield]:https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
