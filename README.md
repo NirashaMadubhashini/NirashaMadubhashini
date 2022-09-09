@@ -33,7 +33,7 @@
 
 <!-- [![Nirasha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NirashaMadubhashini&&theme=rogue)](https://github.com/NirashaMadubhashini) -->
 
-[![NirashaMadubhashini's github activity graph](https://activity-graph.herokuapp.com/graph?username=NirashaMadubhashini0&theme=rogue)](https://github.com/NirashaMadubhashini/github-readme-activity-graph)
+[![NirashaMadubhashini's github activity graph](https://activity-graph.herokuapp.com/graph?username=NirashaMadubhashini0&theme=rogue)]([https://github.com/NirashaMadubhashini](https://github.com/NirashaMadubhashini)/github-readme-activity-graph)
  
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NirashaMadubhashini&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="NirashaMadubhashini" /></p>
 
