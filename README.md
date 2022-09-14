@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hello+%F0%9F%91%8B%2C+I'm+Nirasha+Madubhashini...">
 <img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Welcome+to+my+github+profile...">
 
-#### I’m currently studying at Institute of Java and Software Engineering - Galle ..
+#### I’m currently studying at Institute of Java and Software Engineering - Galle.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NirashaMadubhashini&label=Profile%20views&color=0e75b6&style=flat" alt="Bashi0729" /> </p>
 
