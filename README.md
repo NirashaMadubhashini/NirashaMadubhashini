@@ -28,7 +28,7 @@
 [whatsApp-url]: https://web.whatsapp.com/
 
 [instagram-shield]:https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-[instagram-url]: https://web.whatsapp.com/](https://www.instagram.com/
+[instagram-url]: https://www.instagram.com/_nishu_bashi_/
 
 
 <!-- [![Nirasha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NirashaMadubhashini&&theme=rogue)](https://github.com/NirashaMadubhashini) -->
