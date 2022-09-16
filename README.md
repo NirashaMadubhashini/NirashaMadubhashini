@@ -10,6 +10,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NirashaMadubhashini&label=Profile%20views&color=0e75b6&style=flat" alt="Bashi0729" /> </p>
+<a href="https://github.com/NirashaMadubhashini?tab=followers"><img src="https://img.shields.io/github/followers/NirashaMadubhashini?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 ## 📲 Reach me through ..
