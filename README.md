@@ -80,6 +80,10 @@
  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />  
  </p>
  
+  ## 📱 Mobile Frameworks <br>
+  <p>
+ <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ </p>
 
 <!-- [![Nirasha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NirashaMadubhashini&&theme=rogue)](https://github.com/NirashaMadubhashini) -->
 
