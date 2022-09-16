@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Nirasha Madubhashini!</h1>
+<h1 align="center">Hello 👋, I'm Nirasha Madubhashini!</h1>
 <img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Welcome+to+my+github+profile...">
 
 🌱 I’m currently studying at Institute of Jave and Software Engineering(IJSE)
