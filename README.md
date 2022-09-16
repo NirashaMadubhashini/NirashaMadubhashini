@@ -33,8 +33,8 @@
 [instagram-url]: https://www.instagram.com/_nishu_bashi_/
 
 <h3 align="left">📫 Languages and Tools:</h3>
-<a <img src="{https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6}" /> or ![image]({https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6})> </a> 
-
+[![AdobeXD][adobeXD-shield]]
+[adobeXD-shield]: https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6
 
 <!-- [![Nirasha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NirashaMadubhashini&&theme=rogue)](https://github.com/NirashaMadubhashini) -->
 
