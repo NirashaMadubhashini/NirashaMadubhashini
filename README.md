@@ -39,9 +39,12 @@
 [instagram-url]: https://www.instagram.com/_nishu_bashi_/
 
 
-##⚡ Database <br>
+## ⚡ Database <br>
 
-<p><img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></p>                   
+<p><img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+ <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>                   
+
 
 ## 🔌 Tools <br>
 <p><img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" /> 
