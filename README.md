@@ -42,7 +42,6 @@
 ## 👨‍💻 Languages and Tools: 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></a></a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" width="40" height="40"/></a>
 
 ##⚡ Database 🔝<br>
@@ -83,6 +82,11 @@
   ## 📱 Mobile Frameworks <br>
   <p>
  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ </p>
+ 
+ ## ⚙️ ORM <br>
+  <p>
+ <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
  </p>
 
 <!-- [![Nirasha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NirashaMadubhashini&&theme=rogue)](https://github.com/NirashaMadubhashini) -->
