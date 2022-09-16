@@ -8,7 +8,9 @@
 
 📫 How to reach me: nirashaweerasingha11@gmail.com
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NirashaMadubhashini&label=Profile%20views&color=0e75b6&style=flat" alt="Bashi0729" /> </p>
+
 
 ## 📲 Reach me through ..
 
@@ -33,6 +35,7 @@
 
 [instagram-shield]:https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/_nishu_bashi_/
+
 
 ## 🚀 Languages and Tools:
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
