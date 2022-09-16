@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Nirasha Madubhashini!</h1>
 
-<h1 align="center"><img  src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile."></h1>
+<h1 align="center"><img  src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile."></h1>
 
 
 🌱 I’m currently studying at Institute of Jave and Software Engineering(IJSE)
