@@ -4,9 +4,9 @@
 <h1 align="center"><img  src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Welcome+to+my+GitHub+Profile."></h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NirashaMadubhashini&label=Profile%20views&color=0e75b6&style=flat" alt="Bashi0729" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NirashaMadubhashini&label=Profile%20views&color=0e75b6&style=flat" alt="Bashi0729" />
 <a href="https://github.com/NirashaMadubhashini?tab=followers"><img src="https://img.shields.io/github/followers/NirashaMadubhashini?label=Followers&style=social" alt="GitHub Badge"></a>
-
+</p>
 <br>
 
 🌱 I’m currently studying at Institute of Jave and Software Engineering(IJSE)
