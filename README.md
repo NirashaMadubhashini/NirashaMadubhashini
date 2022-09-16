@@ -13,6 +13,7 @@
 
 📫 How to reach me: nirashaweerasingha11@gmail.com
 
+<h2 align='center'>🧑🏼‍🏭 Static</h2>
 
 ## 📱 Reach me through ..
 
