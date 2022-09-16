@@ -69,6 +69,15 @@
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />  
  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /> </p>
  
+ ## 👩‍💻 IDE 🔝  <br>
+ <p>
+ <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />  
+ <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
+ <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />    
+ <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+ 
+ </p>
+ 
 
 <!-- [![Nirasha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=NirashaMadubhashini&&theme=rogue)](https://github.com/NirashaMadubhashini) -->
 
