@@ -9,7 +9,7 @@
 </p>
 <br>
 
-💻 I’m currently studying at Institute of Jave and Software Engineering(IJSE)
+💻📚 I’m currently studying at Institute of Jave and Software Engineering(IJSE)
 
 📫 How to reach me: nirashaweerasingha11@gmail.com
 
