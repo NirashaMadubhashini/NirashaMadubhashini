@@ -11,7 +11,7 @@
 
 📚 I’m currently studying at Institute of Software Engineering (IJSE)
 
-📫 How to reach me: nirashaweerasingha11@gmail.com
+📫 How to reach me: nirashamadubhashini1107@gmail.com
 
 <h2 align='center'>🧑🏼‍🏭 Static</h2>
 
