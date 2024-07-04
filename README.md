@@ -28,7 +28,7 @@
 [linkedin-url]: http://www.linkedin.com/in/nirasha-madubhashini-888877201
 
 [website-shield]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
-[website-url]: https://myofficialweb.000webhostapp.com/
+[website-url]: https://nirashapersonalwebsite.000webhostapp.com/
 
 [faceBook-shield]:https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 [faceBook-url]: https://www.facebook.com/nirasha.madubhashini.1/
