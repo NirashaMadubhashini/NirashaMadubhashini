@@ -9,7 +9,7 @@
 </p>
 <br>
 
-📚 I’m currently studying at Institute of Software Engineering (IJSE)
+📚 II have completed my Software Engineering top-up degree from London Metropolitan University.
 
 📫 How to reach me: **nirashamadubhashini1212@gmail.com**
 
