@@ -9,7 +9,7 @@
 </p>
 <br>
 
-📚 II have completed my Software Engineering top-up degree from London Metropolitan University.
+📚 I have completed my Software Engineering top-up degree from London Metropolitan University.
 
 📫 How to reach me: **nirashamadubhashini1212@gmail.com**
 
