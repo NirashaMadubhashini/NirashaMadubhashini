@@ -111,8 +111,8 @@
  
  ## 💻 Workspace Spec  <br>
  <p>
-  <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" />
- <img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/lenovo%20laptop-000000?style=for-the-badge&logo=lenovo&logoColor=white" />
+ <img src="https://img.shields.io/badge/Iphone-FF0000?style=for-the-badge&logo=iphone&logoColor=white" /> 
  
  </p>
 
