@@ -18,7 +18,7 @@
 ## 📱 Reach me through ..
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-/*[![Website][website-shield]][website-url]*/
+<!-- [![Website][website-shield]][website-url] -->
 [![FaceBook][faceBook-shield]][faceBook-url]
 [![WhatsApp][whatsApp-shield]][whatsApp-url]
 [![Instagram][instagram-shield]][instagram-url]
